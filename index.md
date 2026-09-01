@@ -15,14 +15,14 @@ Bem-vindo ao **Escape**, um espaço dedicado a reflexões, ideias e artigos cria
 
 ### 📝 Artigos Recentes
 
-* 📖 [Como Encontrar Inspiração no Dia a Dia](artigo-1.html)  
-  *Pequenas práticas diárias para despertar o pensamento criativo.*
+* 📖 [Como Encontrar Histórias](artigo-1.html)  
+  *Conhecer outra cultura.*
 
-* 🎨 [A Arte da Escrita Sem Filtros](artigo-2.html)  
-  *Liberando a mente para escrever de forma mais autêntica e livre.*
+* 🎨 [A Arte do Mar Com Filtros](artigo-2.html)  
+  *É sereno com revolta.*
 
-* 💡 [Processo Criativo e Bloqueios](artigo-3.html)  
-  *Estratégias para superar a falta de ideias e manter o fluxo.*
+* 💡 [Processo do Bloco Negro](artigo-3.html)  
+  *Superar a falta de buracos negros no Super Mario.*
 
 ---
 
