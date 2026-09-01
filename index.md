@@ -26,8 +26,7 @@ Bem-vindo ao **Escape**, um espaço dedicado a reflexões, ideias e artigos cria
 
 ---
 
-*Mais artigos em breve...*
-
+[Mais artigos](mailto:miriamgomesferreira@hotmail.com?subject=Escape%20-%20Novo%20artigo)
 
 
 
