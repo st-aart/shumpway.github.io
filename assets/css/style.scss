@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Esconde o botão "View the Project on GitHub" e o nome do repositório */
+header p.view,
+header ul {
+  display: none !important;
+}
+
+/* Esconde o rodapé com os créditos do GitHub e do autor */
+footer {
+  display: none !important;
+}
