@@ -18,10 +18,10 @@ Ben arrivato al **Escape**, un spazio dedicato a riflessioni, idee e articoli cr
 * 📖 [Come trovare storie](./articolo-1.html)
   *Conoscere un'altra cultura.*
 
-* 🎨 [La Arte del Mare Con Filtri](articolo-2.html)  
+* 🎨 [La Arte del Mare Con Filtri](./articolo-2.html)  
   *È sereno con ribellione.*
 
-* 💡 [Processo del Bloco Nero](articolo-3.html)  
+* 💡 [Processo del Bloco Nero](./articolo-3.html)  
   *Superare la mancanza di buchi neri in Super Mario.*
 
 ---
