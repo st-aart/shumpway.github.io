@@ -15,7 +15,7 @@ Ben arrivato al **Escape**, un spazio dedicato a riflessioni, idee e articoli cr
 
 ### 📝 Articoli Recenti
 
-* 📖 [Come trovare storie](articolo-1.html)  
+* 📖 [Come trovare storie](articolo-1)  
   *Conoscere un'altra cultura.*
 
 * 🎨 [La Arte del Mare Con Filtri](articolo-2.html)  
