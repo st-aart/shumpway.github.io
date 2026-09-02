@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Come trovare una storia
+title: Come trovare storie
 ---
 
-# Come trovare una storia
+# Come trovare storie
 
 çlk
 
