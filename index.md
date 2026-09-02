@@ -2,7 +2,9 @@
 layout: default
 title: Escape - Artigos Criativos
 ---
-**[ PT ]** | [ [IT](index-it.html) ]
+<p style="text-align: right; font-weight: bold;">
+  <strong>PT</strong> | <a href="it/">IT</a>
+</p>
 
 
 [Vê mais sobre o projecto em st-aart](https://st-aart.github.io/st-aart/)
