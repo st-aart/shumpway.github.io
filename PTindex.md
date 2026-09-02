@@ -2,6 +2,8 @@
 layout: default
 title: Escape - Artigos Criativos
 ---
+**[ PT ]** | [ [IT](index-it.html) ]
+
 
 [Vê mais sobre o projecto em st-aart](https://st-aart.github.io/st-aart/)
 
